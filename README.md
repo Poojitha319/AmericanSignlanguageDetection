@@ -5,14 +5,14 @@ This American Sign Language Prediction System is developed as a small web applic
 SMINIST dataset to train the model.
 # Getting Started
 # Prerequisites
-   *Python3 \n
-   *Streamlit module(python) \n
-   *Machine learning libraries(tensorflow,keras,sklearn etc.,) \n
-   *opencv
+  Python3.
+  Streamlit module(python).
+  Machine learning libraries(tensorflow,keras,sklearn etc.,).
+  opencv.
 # Usage
-   Login to the website \n
-   Set your preferences to detect sign language\n
-   Get the result\n
+Login to the website.
+Set your preferences to detect sign language.
+Get the result.
 # Acknowledgments
 Mention any external libraries, resources, or individuals you'd like to acknowledge.
 # Screenshots
